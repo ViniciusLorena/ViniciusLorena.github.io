@@ -1,9 +1,17 @@
-{"name":"Vini_Lorena",
-	"downloads":[
-		{
-			"title":"MegaBonk",
-			"uris":["https://gofile.io/d/1zXbvX"],
-			"uploadDate":"2026-01-02T23:00:00.000Z",
-			"fileSize":"187.2 MB"}
-        ]
+{
+  "name": "Vini_Lorena",
+  "games": [
+    {
+      "id": "teste-01",
+      "title": "Teste de Download",
+      "downloads": [
+        {
+          "title": "Gofile",
+          "uris": ["https://gofile.io/d/1ZxBvx"],
+          "uploadDate": "2026-01-02T23:00:00.000Z",
+          "fileSize": "187 MB"
+        }
+      ]
+    }
+  ]
 }

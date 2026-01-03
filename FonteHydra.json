@@ -1,17 +1,9 @@
-{
-  "name": "Vini_Lorena",
-  "games": [
-    {
-      "id": "teste-01",
-      "title": "Teste de Download",
-      "downloads": [
-        {
-          "title": "Gofile",
-          "uris": ["https://gofile.io/d/1ZxBvx"],
-          "uploadDate": "2026-01-02T23:00:00.000Z",
-          "fileSize": "187 MB"
-        }
-      ]
-    }
-  ]
+{"name":"Vini_Lorena",
+	"downloads":[
+		{
+			"title":"LEGO Voyagers",
+			"uris":["https://gofile.io/d/uCuDEN"],
+			"uploadDate":"2024-01-02T23:00:00.000Z",
+			"fileSize":"2.4 GB"}
+	]
 }
